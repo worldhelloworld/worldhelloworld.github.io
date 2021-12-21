@@ -1,15 +1,9 @@
 ---
-title: "TITLE"
-excerpt: 이건 뭘까?
-
-categories: Blogging
-tags: github
-
+title: “FIRST ONE”
+categories:
+- blogging
+last_modified_at: 
 toc: true
-toc_sticky: true
-
-date:
-last_modified_at:
 ---
 git clone 해서
 이거 만들어가지고
